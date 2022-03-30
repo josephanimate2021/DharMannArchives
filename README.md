@@ -1,0 +1,4 @@
+# Dhar-Mann-Video-Archives
+Source code ment as a placeholder for Dhar Mann's Deleted Video so that way you can still watch them.
+## Embedding
+is it possible to embed these videos to your website? Why yes it is! just input this HTML code onto your website. use the video called RUDE CASHIER Won't Sell To KID - DELETING AFTER 48 HOURS!! | Dhar Mann for example. <iframe href="https://josephcrosmanplays532.github.io/Dhar-Mann-Video-Archives/RUDE CASHIER Won't Sell To KID - DELETING AFTER 48 HOURS!! | Dhar Mann.mp4" class="embedded-video-large" frameborder="0" allowfullscreen="1" title="Joseph Animate Awesome Domain video player" width="100%" height="100%" src="https://josephcrosmanplays532.github.io/Dhar-Mann-Video-Archives/RUDE CASHIER Won't Sell To KID - DELETING AFTER 48 HOURS!! | Dhar Mann.mp4" id="widget2" style="width: 100%; height: 100%;"></iframe>

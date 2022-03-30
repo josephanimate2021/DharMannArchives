@@ -1,0 +1,3 @@
+function YTEmbedRedirect() {
+  document.getElementById('embed').innerHTML = '<iframe href="//www.youtube.com/watch?v=5btJhbxqTdY" data-videoid="5btJhbxqTdY" class="embedded-video-large" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="100%" height="100%" src="https://www.youtube.com/embed/5btJhbxqTdY?autoplay=0&amp;cc_load_policy=1&amp;controls=2&amp;rel=0&amp;hl=en&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsupport.google.com&amp;widgetid=1" id="widget2" style="width: 100%; height: 100%;"></iframe>';
+}
